@@ -29,7 +29,7 @@
 
 8. Reconstruir la base de datos con la semilla
 ```
-  localhost:3000/api/v2/seed
+  localhost:3000/api/v1/seed
 ```
 
 ## Stack usado
