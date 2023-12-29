@@ -22,7 +22,7 @@
 
 6. Llenar las variables de entorno en el ```.env```
 
-7. Ejecutar la aplicación en de:
+7. Ejecutar la aplicación en dev:
 ```
   npm run start:dev
 ```
